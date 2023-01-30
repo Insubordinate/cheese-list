@@ -2,5 +2,10 @@ Cheddar
 Mozzarella
 Roquefort
 Compté
+<<<<<<< HEAD
 Fontina
 Wensleydale
+Bleu
+=======
+Fontina
+>>>>>>> parent of a954ca8 (Update cheeses.txt)
